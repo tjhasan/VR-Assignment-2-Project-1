@@ -13,7 +13,7 @@
 	* Sound effects are likewise sourced from a free sound website, and edited using audacity.
 	* Game resets after every loss.
 
-## Fair Use
+## Fair Use:
 	* The materials used in this project are, in no way, used for a monitizational purpose.
 	* All components of this game have come from free to use software found online. 
 	* I hold no rights to any of the components used in this game.
